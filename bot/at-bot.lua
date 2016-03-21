@@ -255,7 +255,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {89122894},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
@@ -350,7 +350,7 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Writed by erfan 0953
 ]]
   }
   serialize_to_file(config, './data/config.lua')
